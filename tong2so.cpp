@@ -7,6 +7,5 @@ using namespace std ;
      cin >> a >> b;
      tong=a+b;
      cout << tong;
-     return 0;
-
+     cout << "Dat da o day";
  }
